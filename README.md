@@ -2,7 +2,7 @@
 
 ## Ressources internes
 
-- **Github organisation** : [https://github.com/LBRAI2219-2023]()
+- **Github organisation** : [](https://github.com/LBRAI2219-2023)
 - **Ressources et instruction** : [https://github.com/LBRAI2219-2023/0_ressources]()
 - **Codes partagés** : [https://github.com/LBRAI2219-2023/codes_partages]()
 
