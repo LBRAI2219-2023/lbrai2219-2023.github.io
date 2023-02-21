@@ -1,2 +1,5 @@
-# lbrai2219-2023.github.io
-course website
+# Modélisation des systèmes biologique - LBRAI2219 - v2023
+
+Site web du cours, avec lien vers les resources utiles. 
+
+
