@@ -1,5 +1,4 @@
 
-Site web du cours, avec lien vers les resources utiles. 
 
 ## Ressources internes
 
