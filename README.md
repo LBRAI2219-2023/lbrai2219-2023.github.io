@@ -35,17 +35,17 @@
 
 ### MARSHAL
 
-- **Site web** : [https://marshal-root.github.io/]()
-- **Code source** : [https://github.com/MARSHAL-ROOT/marshal]()
-- **Jupiter notebook** : [https://github.com/water-fluxes/day-3-plant-scale-marshal]()
-- **Web application** : [https://plantmodelling.shinyapps.io/marshal]()
-- **Publication** : [https://doi.org/10.1093/insilicoplants/diz012]()
+- **Site web** : [https://marshal-root.github.io/](https://marshal-root.github.io/)
+- **Code source** : [https://github.com/MARSHAL-ROOT/marshal](https://github.com/MARSHAL-ROOT/marshal)
+- **Jupiter notebook** : [https://github.com/water-fluxes/day-3-plant-scale-marshal](https://github.com/water-fluxes/day-3-plant-scale-marshal)
+- **Web application** : [https://plantmodelling.shinyapps.io/marshal](https://plantmodelling.shinyapps.io/marshal)
+- **Publication** : [https://doi.org/10.1093/insilicoplants/diz012](https://doi.org/10.1093/insilicoplants/diz012)
 
 ### SimpleCropBot
 
-- **Code source** : [https://github.com/plantmodelling/simplecropbot]()
-- **Web application** : [https://plantmodelling.shinyapps.io/SimpleCropBot/]()
-- **Publication** : [https://linkinghub.elsevier.com/retrieve/pii/S1364815214002102]()
+- **Code source** : [https://github.com/plantmodelling/simplecropbot](https://github.com/plantmodelling/simplecropbot)
+- **Web application** : [https://plantmodelling.shinyapps.io/SimpleCropBot/](https://plantmodelling.shinyapps.io/SimpleCropBot/)
+- **Publication** : [https://linkinghub.elsevier.com/retrieve/pii/S1364815214002102](https://linkinghub.elsevier.com/retrieve/pii/S1364815214002102)
 
 
 
