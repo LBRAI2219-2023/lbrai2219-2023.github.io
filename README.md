@@ -28,7 +28,7 @@
 
 - **Site web** : [https://plant-root-soil-interactions-modelling.github.io/CRootBox/](https://plant-root-soil-interactions-modelling.github.io/CRootBox/)
 - **Code source** : [https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox](https://github.com/Plant-Root-Soil-Interactions-Modelling/CPlantBox)
-- **Jupiter notebook** : [https://github.com/water-fluxes/day-3-plant-scale-cplantbox](https://github.com/water-fluxes/day-3-plant-scale-cplantbox)
+- **Jupiter notebook** : [[https://github.com/water-fluxes/day-3-plant-scale-cplantbox](https://colab.research.google.com/github/Plant-Root-Soil-Interactions-Modelling/CPlantBox/blob/master/tutorial/jupyter/fspm_2023/1_cplantbox.ipynb)]([https://github.com/water-fluxes/day-3-plant-scale-cplantbox](https://colab.research.google.com/github/Plant-Root-Soil-Interactions-Modelling/CPlantBox/blob/master/tutorial/jupyter/fspm_2023/1_cplantbox.ipynb))
 - **Web application** : [https://plantmodelling.shinyapps.io/shinyRootBox/](https://plantmodelling.shinyapps.io/shinyRootBox/)
 - **PArameter database** : [https://figshare.com/collections/CRootBox_parameter_files/3745478](https://figshare.com/collections/CRootBox_parameter_files/3745478)
 - **Publication** : [https://doi.org/10.1101/139980](https://doi.org/10.1101/139980)
